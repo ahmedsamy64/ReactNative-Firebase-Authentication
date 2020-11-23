@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myQuiz</string>
+    <string name="facebook_app_id">409612310081137</string>
+    <string name="fb_login_protocol_scheme">fb409612310081137</string>
+</resources>
